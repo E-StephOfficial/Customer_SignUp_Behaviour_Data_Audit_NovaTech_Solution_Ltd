@@ -12,7 +12,7 @@ This project analyzes customer sign-up behaviour and evaluates data quality issu
 ## Project Files
 - [Raw Data](customer_signups.csv)
 - [Jupter Notebook](Customer_SignUp_Behaviour_Data_Audit.ipynb)
-- [Business Report](NovaTech_Solutions_Customer_SignUp_Data_Audit.pdf)
+- [Business Report](./NovaTech_Solutions_Customer_SignUp_Data_Audit.pdf)
 
 ## Tools & Libraries
 - Python
